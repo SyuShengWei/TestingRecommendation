@@ -1,0 +1,3 @@
+ID,Title,Automation Type,Case Completeness,Created By,Created On,Departmentt,Estimate,Expected Result,Forecast,Goals,Mission,Preconditions,Priority,References,Section,Section Depth,Section Description,Section Hierarchy,Steps,Steps,Steps (Expected Result),Steps (Step),Suite,Suite ID,Template,Test purpose,Type,Updated By,Updated On
+C0001,驗證是否能正確登入, None,,name,2018/8/31 上午 10:26,,,順利登入系統,,,,進入登入頁面,Medium,,Authentication,0,有關登入登出的測試,Authentication,,"輸入帳號並點下確認按鈕
+",,,Web,S00,Test Case (Text),確認輸入正確帳密後，可以順利進入系統,Other,name,2018/8/31 上午 10:26
