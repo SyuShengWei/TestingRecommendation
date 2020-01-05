@@ -1,0 +1,6 @@
+pandas
+pytest==5.3.0
+pytest-cov
+pytest-mock 
+hacking
+mock

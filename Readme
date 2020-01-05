@@ -1,0 +1,2 @@
+Before the Unittest, you need to run this cmd first and run under TestingRecommendation folder
+	export PYTHONPATH=./
