@@ -1,7 +1,5 @@
 # ignore raw data
-docs/raw_data/cloudtis.csv
-docs/raw_data/tis.csv
-docs/raw_data/minitis.csv
+docs/raw_data
 
 # ignore playground
 Untitled.ipynb
