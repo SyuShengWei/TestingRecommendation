@@ -1,5 +1,6 @@
 # ignore raw data
-docs/raw_data
+docs/raw_data/*
+
 
 # ignore playground
 Untitled.ipynb

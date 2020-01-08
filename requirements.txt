@@ -4,3 +4,6 @@ pytest-cov
 pytest-mock 
 hacking
 mock
+googletrans
+fake-useragent
+nltk
